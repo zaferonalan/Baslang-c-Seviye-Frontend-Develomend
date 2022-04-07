@@ -1,0 +1,33 @@
+
+/*  class -> .text-red{} */
+/*  id -> #id-bilgisi */
+
+h1,h2,h3,h4,h5,h6{
+    color: #858585;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#first-article{
+    font-size: 40px;
+}
+
+.text-red{
+    color:red;
+}
+
+.fs-15{
+    font-size: 15px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.fs-40{
+    font-size: 40px;
+}
