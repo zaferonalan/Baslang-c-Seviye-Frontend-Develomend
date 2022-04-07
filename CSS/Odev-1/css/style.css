@@ -1,0 +1,21 @@
+ol{
+    list-style-position: inside;
+    color: blue;
+}
+ul{
+    color: blue;
+}
+.class{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: cadetblue;
+}
+h1,h2{
+    color: red;
+}
