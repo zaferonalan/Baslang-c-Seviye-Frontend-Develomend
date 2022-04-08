@@ -1,0 +1,60 @@
+.header {
+   text-align: center;
+   width: 800px;
+   height: 115px;
+   margin: 0 auto;
+}
+.nav {
+    text-align: center;
+    width: auto;
+    height: 65px;
+    background-color: rgb(216, 216, 216);
+    margin: 0 auto;
+}
+.box {
+    width: 300px;
+    height: 20px;
+    background-color:white;
+}
+.search {
+    text-align: center;
+    width: 730px;
+    height: 80px;
+    float: left;
+    background-color: rgb(20, 192, 192);
+    margin: 5px auto;
+    padding: 5px;
+}
+.help{
+    text-align: center;
+    width: 404px;
+    height: 80px;
+    background-color: rgb(20, 192, 192);
+    float: left;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.get
+{
+    text-align: center;
+    width: 730px;
+    height: 80px;
+    background-color: rgb(20, 192, 192);
+    float: left;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.box2 {
+    
+    width: 300px;
+    height: 20px;
+    text-align: center;
+}
+.box3 {
+
+    width: 300px;
+    height: 20px;
+    text-align: center;
+}
